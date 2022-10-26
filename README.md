@@ -5,3 +5,6 @@ In this game the player need to write a name (of a human; for eg. richard), an a
 Enjoy!
 
 ## The deployed app: 
+
+https://name-place-animal-thing-ortal.herokuapp.com/
+
